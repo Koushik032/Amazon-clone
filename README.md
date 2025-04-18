@@ -1,7 +1,10 @@
-A beginner-friendly clone of the Amazon homepage designed to improve my HTML/CSS skills.
+# Amazon Clone Homepage
 
-Features:
+This is a clone of Amazon's homepage created using **HTML** and **CSS**.
 
-1. Flexbox and grid usage.
-2. Hover effects and navigation bar.
-3. Clean, semantic HTML structure.
+## 🔥 Features
+- Header section with logo and navigation
+- Banner image section
+- Product categories layout
+- Pure HTML & CSS (no JavaScript)
+
