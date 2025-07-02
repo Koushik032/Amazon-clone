@@ -11,4 +11,4 @@ This is a clone of Amazon's homepage created using **HTML** and **CSS**.
 Homepage :
 
 ![Home Page](Screenshot7.png)
-![Home Page](Screenshot (9).png)
+![Home Page](Screenshot9.png)
