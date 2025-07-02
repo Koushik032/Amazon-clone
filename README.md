@@ -10,5 +10,5 @@ This is a clone of Amazon's homepage created using **HTML** and **CSS**.
 
 Homepage :
 
-1. ![Uploading Screenshot7.png…]()
-2. ![Uploading Screenshot (9).png…]()
+![Game Screenshot](.\Screenshot7.png)
+![Game Screenshot](./image/image2.png)
